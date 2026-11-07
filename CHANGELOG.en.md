@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.8.1 — 07/11/2026
+- Faster preset switching: a preset unchanged on the site opens without being downloaded again.
+- Lighter startup: only presets changed on the site are downloaded, all at once.
+
 ## 0.8.0 — 07/11/2026
 - Local presets: import your own preset from the My presets section. It stays on your PC only, and nobody else can access it.
 

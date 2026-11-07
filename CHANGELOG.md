@@ -1,5 +1,9 @@
 # Journal des modifications
 
+## 0.8.1 — 07/11/2026
+- Changement de preset plus rapide : un preset inchangé sur le site s'ouvre sans être retéléchargé.
+- Démarrage plus léger : seuls les presets modifiés sur le site sont téléchargés, et en même temps.
+
 ## 0.8.0 — 07/11/2026
 - Presets locaux : importez votre propre preset depuis la section Mes presets. Il reste uniquement sur votre PC, et personne d'autre n'y a accès.
 
