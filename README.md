@@ -2,7 +2,7 @@
 
 Versions publiées du launcher de la 61st Adeptus TEAM.
 
-Pour installer le launcher, télécharge `adeptus-launcher-setup-*.exe` depuis la [dernière version](https://github.com/RadionWave/61st-Adeptus-Launcher-Releases/releases/latest). Il se met ensuite à jour tout seul.
+Pour installer le launcher, téléchargez `adeptus-launcher-setup-*.exe` depuis la [dernière version](https://github.com/RadionWave/61st-Adeptus-Launcher-Releases/releases/latest). Il se met ensuite à jour automatiquement.
 
 ## Utilisation de l'IA
 
