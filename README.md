@@ -14,7 +14,9 @@ Ouvrez la [dernière version](https://github.com/RadionWave/61st-Adeptus-Launche
 
 Lancez le fichier téléchargé et suivez les étapes. Aucun droit administrateur n'est nécessaire.
 
-Si Windows affiche « Windows a protégé votre ordinateur », cliquez sur **Informations complémentaires**, puis sur **Exécuter quand même**.
+Si Windows affiche « Windows a protégé votre ordinateur », cliquez sur **Informations complémentaires**, puis sur **Exécuter quand même**. Cet avertissement apparaît parce que le launcher n'a pas de certificat Windows.
+
+![Fenêtre de Windows SmartScreen, avec le bouton Exécuter quand même](docs/smartscreen.png)
 
 Vous retrouverez ensuite le launcher dans le menu Démarrer, sous le nom **Adeptus TEAM Launcher**.
 
@@ -32,7 +34,7 @@ Lancez Steam, puis le launcher.
 ![Le launcher, avec le serveur, le mot de passe et le bouton Jouer numérotés](docs/jouer.png)
 
 3. Choisissez un serveur. Une pastille verte indique qu'il est en ligne.
-4. Saisissez le mot de passe du serveur s'il en a un. Il est retenu pour les prochaines fois.
+4. Saisissez le mot de passe du serveur, disponible sur le Discord de la team. Il est retenu pour les prochaines fois.
 5. Cliquez sur **Jouer** : le jeu se lance et rejoint le serveur.
 
 Pour lancer le jeu sans rejoindre de serveur, cliquez de nouveau sur le serveur sélectionné pour le désélectionner, puis sur **Jouer**.
