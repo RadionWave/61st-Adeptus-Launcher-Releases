@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.7.0 — 07/11/2026
+- Arrow next to the version number to check for updates at any time.
+
 ## 0.6.0 — 07/11/2026
 - Changelog: click the version number to read it.
 

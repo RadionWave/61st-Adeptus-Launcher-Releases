@@ -1,5 +1,8 @@
 # Journal des modifications
 
+## 0.7.0 — 07/11/2026
+- Flèche à côté du numéro de version pour rechercher une mise à jour à tout moment.
+
 ## 0.6.0 — 07/11/2026
 - Journal des modifications : cliquez sur le numéro de version pour le consulter.
 
