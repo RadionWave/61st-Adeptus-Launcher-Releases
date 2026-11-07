@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.8.0 — 07/11/2026
+- Local presets: import your own preset from the My presets section. It stays on your PC only, and nobody else can access it.
+
 ## 0.7.0 — 07/11/2026
 - Arrow next to the version number to check for updates at any time.
 

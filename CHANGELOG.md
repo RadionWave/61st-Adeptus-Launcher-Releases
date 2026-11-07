@@ -1,5 +1,8 @@
 # Journal des modifications
 
+## 0.8.0 — 07/11/2026
+- Presets locaux : importez votre propre preset depuis la section Mes presets. Il reste uniquement sur votre PC, et personne d'autre n'y a accès.
+
 ## 0.7.0 — 07/11/2026
 - Flèche à côté du numéro de version pour rechercher une mise à jour à tout moment.
 
