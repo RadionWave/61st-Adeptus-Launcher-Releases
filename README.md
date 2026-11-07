@@ -48,6 +48,10 @@ Laissez la case **BattlEye** décochée, sauf si un serveur l'exige.
 - **Radio :** si le preset utilise Task Force Radio, le launcher indique si TeamSpeak est lancé et si le plugin radio est installé. Le bouton **Installer le plugin** l'installe pour vous.
 - **Discord et site :** les boutons en haut de la fenêtre y mènent directement.
 
+## Nouveautés
+
+Le [journal des modifications](CHANGELOG.md) liste les changements de chaque version ([English](CHANGELOG.en.md)). Vous le retrouvez aussi dans le launcher, en cliquant sur son numéro de version.
+
 ## En cas de problème
 
 - **« Steam non connecté » :** lancez Steam, puis cliquez sur **Actualiser**.

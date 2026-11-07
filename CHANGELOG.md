@@ -1,0 +1,46 @@
+# Journal des modifications
+
+## 0.6.0 — 07/11/2026
+- Journal des modifications : cliquez sur le numéro de version pour le consulter.
+
+## 0.5.0 — 07/11/2026
+- Nombre de joueurs et carte affichés à côté de chaque serveur.
+- Boutons Discord et Site en haut de la fenêtre.
+- Vérification de TeamSpeak et du plugin radio, avec un bouton pour installer le plugin.
+- Taille à télécharger affichée avant le téléchargement des mods.
+- Le launcher se réduit quand le jeu se lance.
+- Nettoyage des mods inutilisés, désactivé par défaut, dans Options.
+
+## 0.4.2 — 07/11/2026
+- Lecture du site plus fiable : un lien inattendu ne peut plus vider la liste des presets.
+- Vos réglages sont conservés, et signalés s'ils deviennent illisibles.
+- Un mot de passe tapé juste avant de cliquer sur Jouer est bien pris en compte.
+- Corrections de plusieurs problèmes d'affichage et de sélection.
+
+## 0.4.1 — 07/11/2026
+- Confirmation demandée avant d'activer BattlEye.
+- Les mods à mettre à jour s'affichent en bleu, avec leur nombre dans le résumé.
+
+## 0.4.0 — 07/11/2026
+- Connexion directe aux serveurs Main, OPEX et Training, avec mot de passe.
+- Pastille indiquant si chaque serveur est en ligne.
+- Case pour lancer le jeu avec BattlEye.
+- Le bouton Lancer le jeu devient Jouer.
+
+## 0.3.1 — 07/11/2026
+- Version de vérification de la mise à jour, sans changement visible.
+
+## 0.3.0 — 07/11/2026
+- Version anglaise, au choix dans Options.
+- Textes plus sobres.
+- Bouton de mise à jour à côté du numéro de version.
+
+## 0.2.0 — 06/11/2026
+- Les presets restent disponibles quand le site est en panne.
+- Les DLC sont désactivés par défaut, et vos choix sont conservés.
+
+## 0.1.1 — 06/11/2026
+- Version de vérification de la mise à jour, sans changement visible.
+
+## 0.1.0 — 06/11/2026
+- Première version : choix du preset, téléchargement des mods, options de lancement et mise à jour automatique.
