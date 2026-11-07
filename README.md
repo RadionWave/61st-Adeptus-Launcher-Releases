@@ -45,6 +45,8 @@ Laissez la case **BattlEye** décochée, sauf si un serveur l'exige.
 
 - **Mises à jour :** le launcher se met à jour tout seul. Si le bouton **Mettre à jour** apparaît à côté du numéro de version, cliquez dessus une fois le jeu fermé.
 - **Langue :** le launcher existe aussi en anglais, dans **Options**.
+- **Radio :** si le preset utilise Task Force Radio, le launcher indique si TeamSpeak est lancé et si le plugin radio est installé. Le bouton **Installer le plugin** l'installe pour vous.
+- **Discord et site :** les boutons en haut de la fenêtre y mènent directement.
 
 ## En cas de problème
 
