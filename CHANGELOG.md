@@ -1,5 +1,8 @@
 # Journal des modifications
 
+## 0.8.2 — 07/11/2026
+- Démarrage plus rapide : les presets, les serveurs et Steam se chargent en même temps, sans attendre la vérification des mises à jour.
+
 ## 0.8.1 — 07/11/2026
 - Changement de preset plus rapide : un preset inchangé sur le site s'ouvre sans être retéléchargé.
 - Démarrage plus léger : seuls les presets modifiés sur le site sont téléchargés, et en même temps.

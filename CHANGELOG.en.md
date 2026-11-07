@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.8.2 — 07/11/2026
+- Faster startup: presets, servers and Steam load at the same time, without waiting for the update check.
+
 ## 0.8.1 — 07/11/2026
 - Faster preset switching: a preset unchanged on the site opens without being downloaded again.
 - Lighter startup: only presets changed on the site are downloaded, all at once.
