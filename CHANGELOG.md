@@ -1,5 +1,9 @@
 # Journal des modifications
 
+## 0.9.0 — 07/11/2026
+- Retrait de l'option Unité Arma 3 des options de lancement.
+- Nouvelle case dans Options : ouvrir TeamSpeak et se connecter au serveur de la communauté au lancement du jeu.
+
 ## 0.8.2 — 07/11/2026
 - Démarrage plus rapide : les presets, les serveurs et Steam se chargent en même temps, sans attendre la vérification des mises à jour.
 

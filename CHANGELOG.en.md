@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.9.0 — 07/11/2026
+- Removed the Arma 3 unit option from the launch options.
+- New Options checkbox: open TeamSpeak and connect to the community server when the game starts.
+
 ## 0.8.2 — 07/11/2026
 - Faster startup: presets, servers and Steam load at the same time, without waiting for the update check.
 
