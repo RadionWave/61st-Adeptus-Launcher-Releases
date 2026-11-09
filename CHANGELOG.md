@@ -1,5 +1,8 @@
 # Journal des modifications
 
+## 0.10.1 — 09/11/2026
+- Correction de l'erreur 740 à l'ouverture de TeamSpeak : si TeamSpeak exige les droits administrateur, Windows les demande maintenant.
+
 ## 0.10.0 — 09/11/2026
 - Nouveau menu de nettoyage des mods : retirez un preset entier ou seulement certains mods, avec une recherche par nom.
 - Le nettoyage ne propose plus que les mods des presets : vos compositions et vos autres abonnements Steam ne sont plus concernés.
