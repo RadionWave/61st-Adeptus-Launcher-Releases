@@ -1,5 +1,14 @@
 # Journal des modifications
 
+## 0.10.0 — 09/11/2026
+- Nouveau menu de nettoyage des mods : retirez un preset entier ou seulement certains mods, avec une recherche par nom.
+- Le nettoyage ne propose plus que les mods des presets : vos compositions et vos autres abonnements Steam ne sont plus concernés.
+- Un mod utilisé par un autre preset est signalé et conservé, sauf si vous choisissez de le retirer.
+- Il faut écrire CONFIRMER pour valider un retrait, et une fenêtre confirme qu'il est terminé.
+- TeamSpeak s'ouvre aussi quand il est installé dans votre dossier utilisateur, sans droits administrateur.
+- Écran principal réorganisé : les DLC deviennent des pastilles sous la liste des mods, qui prend toute la largeur.
+- Options réorganisées : les réglages avancés sont repliés, et l'adresse de la source des presets n'est plus affichée.
+
 ## 0.9.0 — 07/11/2026
 - Retrait de l'option Unité Arma 3 des options de lancement.
 - Nouvelle case dans Options : ouvrir TeamSpeak et se connecter au serveur de la communauté au lancement du jeu.
