@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.10.1 — 09/11/2026
+- Fixed error 740 when opening TeamSpeak: if TeamSpeak requires administrator rights, Windows now asks for them.
+
 ## 0.10.0 — 09/11/2026
 - New mod cleanup menu: remove a whole preset or only some mods, with a search by name.
 - Cleanup now only offers mods from presets: your compositions and other Steam subscriptions are no longer affected.
