@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.10.0 — 09/11/2026
+- New mod cleanup menu: remove a whole preset or only some mods, with a search by name.
+- Cleanup now only offers mods from presets: your compositions and other Steam subscriptions are no longer affected.
+- A mod used by another preset is flagged and kept, unless you choose to remove it.
+- You must type CONFIRM to validate a removal, and a window confirms when it is done.
+- TeamSpeak now also opens when it is installed in your user folder, without administrator rights.
+- Main screen reorganized: DLCs become chips below the mod list, which now uses the full width.
+- Options reorganized: advanced settings are collapsed, and the preset source address is no longer shown.
+
 ## 0.9.0 — 07/11/2026
 - Removed the Arma 3 unit option from the launch options.
 - New Options checkbox: open TeamSpeak and connect to the community server when the game starts.
