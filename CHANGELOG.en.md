@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.11.0 — 11/11/2026
+- Arrow next to the Servers title to refresh their status without waiting for the automatic check.
+- Fixed in Options: clicking “Executable” no longer greys out the Client/Server choice.
+
 ## 0.10.1 — 09/11/2026
 - Fixed error 740 when opening TeamSpeak: if TeamSpeak requires administrator rights, Windows now asks for them.
 
