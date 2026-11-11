@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.12.0 — 11/11/2026
+- New setting in Options: when the game starts, the launcher can do nothing, minimize (as before) or close.
+- The first time you click Play, a window asks you to make this choice. You can change it later in Options.
+
 ## 0.11.0 — 11/11/2026
 - Arrow next to the Servers title to refresh their status without waiting for the automatic check.
 - Fixed in Options: clicking “Executable” no longer greys out the Client/Server choice.
