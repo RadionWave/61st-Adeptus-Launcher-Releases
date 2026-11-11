@@ -1,5 +1,8 @@
 # Journal des modifications
 
+## 0.12.1 — 11/11/2026
+- Le clic droit n'ouvre plus le menu du navigateur (Actualiser, Imprimer…). Il fonctionne toujours dans les champs de texte pour copier et coller.
+
 ## 0.12.0 — 11/11/2026
 - Nouveau réglage dans Options : au lancement du jeu, le launcher peut ne rien faire, se réduire (comme avant) ou se fermer.
 - Au premier clic sur Jouer, une fenêtre vous demande de faire ce choix. Il reste modifiable dans Options.
