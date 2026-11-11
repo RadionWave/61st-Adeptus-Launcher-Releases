@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.12.1 — 11/11/2026
+- Right-clicking no longer opens the browser menu (Refresh, Print…). It still works in text fields to copy and paste.
+
 ## 0.12.0 — 11/11/2026
 - New setting in Options: when the game starts, the launcher can do nothing, minimize (as before) or close.
 - The first time you click Play, a window asks you to make this choice. You can change it later in Options.
