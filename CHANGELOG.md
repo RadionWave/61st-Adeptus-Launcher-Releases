@@ -1,5 +1,9 @@
 # Journal des modifications
 
+## 0.11.0 — 11/11/2026
+- Flèche à côté du titre Serveurs pour actualiser leur état sans attendre la vérification automatique.
+- Correction dans Options : cliquer sur « Exécutable » ne grise plus le choix Client/Serveur.
+
 ## 0.10.1 — 09/11/2026
 - Correction de l'erreur 740 à l'ouverture de TeamSpeak : si TeamSpeak exige les droits administrateur, Windows les demande maintenant.
 
