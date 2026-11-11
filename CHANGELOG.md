@@ -1,5 +1,9 @@
 # Journal des modifications
 
+## 0.12.0 — 11/11/2026
+- Nouveau réglage dans Options : au lancement du jeu, le launcher peut ne rien faire, se réduire (comme avant) ou se fermer.
+- Au premier clic sur Jouer, une fenêtre vous demande de faire ce choix. Il reste modifiable dans Options.
+
 ## 0.11.0 — 11/11/2026
 - Flèche à côté du titre Serveurs pour actualiser leur état sans attendre la vérification automatique.
 - Correction dans Options : cliquer sur « Exécutable » ne grise plus le choix Client/Serveur.
