@@ -1,5 +1,9 @@
 # Journal des modifications
 
+## 0.12.2 — 26/11/2026
+- Les presets s’affichent de nouveau : le site a changé ses liens de téléchargement et le launcher croyait le site injoignable.
+- Au premier lancement de cette version, tous les presets sont marqués « mis à jour » une fois.
+
 ## 0.12.1 — 11/11/2026
 - Le clic droit n'ouvre plus le menu du navigateur (Actualiser, Imprimer…). Il fonctionne toujours dans les champs de texte pour copier et coller.
 
