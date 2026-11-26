@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.12.2 — 26/11/2026
+- Presets show up again: the site changed its download links and the launcher thought the site was unreachable.
+- The first time you start this version, every preset is marked “updated” once.
+
 ## 0.12.1 — 11/11/2026
 - Right-clicking no longer opens the browser menu (Refresh, Print…). It still works in text fields to copy and paste.
 
